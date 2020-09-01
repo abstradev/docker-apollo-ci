@@ -1,6 +1,6 @@
 {
   "name": "apollo-ci",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Docker image to utilize apollo-ci and generate schema.gql from file",
   "main": "index.js",
   "author": "Abstra LLC <contact@abstraconsulting.com>",
